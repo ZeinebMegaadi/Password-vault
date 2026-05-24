@@ -1,15 +1,15 @@
-# 🔐 Secure Vault — Encrypted Password Manager
+#  Secure Vault, a Encrypted Password Manager
 
-## 📌 Overview
+## Overview
 
 Secure Vault is a full-stack Java application that allows users to safely store and manage sensitive data such as passwords, API keys, notes, and more.
 It follows modern security practices by encrypting all stored data and protecting user credentials with strong hashing algorithms.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔒 Security
+### Security
 
 * AES-256-GCM encryption for all stored secrets
 * PBKDF2-HMAC-SHA256 password hashing (310,000 iterations)
@@ -17,7 +17,7 @@ It follows modern security practices by encrypting all stored data and protectin
 * 30-minute session timeout (in-memory only)
 * Password strength checker with live feedback
 
-### 🖥️ Core Functionality
+###  Core Functionality
 
 * User registration and login
 * Add, view, update, and delete secrets
@@ -25,7 +25,7 @@ It follows modern security practices by encrypting all stored data and protectin
 * Search and filter system
 * Audit log for tracking all actions
 
-### ⚙️ Extras
+###  Extras
 
 * Secure password generator
 * CSV export for audit logs
@@ -34,7 +34,7 @@ It follows modern security practices by encrypting all stored data and protectin
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ### Security Layer
 
@@ -61,9 +61,9 @@ It follows modern security practices by encrypting all stored data and protectin
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### ✅ Requirements
+###  Requirements
 
 * Java JDK 17 or higher
 * MySQL Server
@@ -109,7 +109,7 @@ java -cp out Server
 
 ---
 
-### 💻 4. Run the Client
+### 4. Run the Client
 
 Open a new terminal:
 
@@ -119,7 +119,7 @@ java -cp out LoginFrame
 
 ---
 
-## 🔄 Usage
+##  Usage
 
 1. Register a new account
 2. Log in
@@ -129,7 +129,7 @@ java -cp out LoginFrame
 
 ---
 
-## 🔐 Security Notes
+##  Security Notes
 
 * All sensitive data is encrypted before being stored
 * Passwords are never stored in plain text
@@ -138,7 +138,7 @@ java -cp out LoginFrame
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 **Database connection failed**
 
@@ -155,7 +155,7 @@ java -cp out LoginFrame
 
 ---
 
-## 📖 Future Improvements
+##  Future Improvements
 
 * Cloud deployment support
 * Multi-device synchronization
@@ -164,8 +164,8 @@ java -cp out LoginFrame
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-Zeineb Megaadi, Software engineering student at Medtech SMU.
+Zeineb Megaadi, Software engineering student at Medtech SMU. :))
 
 ---
