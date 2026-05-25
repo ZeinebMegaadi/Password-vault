@@ -6,6 +6,7 @@ Secure Vault is a full-stack Java application that allows users to safely store 
 It follows modern security practices by encrypting all stored data and protecting user credentials with strong hashing algorithms.
 
 ---
+<img width="1130" height="738" alt="Screenshot 2026-04-28 101825" src="https://github.com/user-attachments/assets/22a4b39b-5d90-4e99-a028-86d260bb9cf6" />
 
 ##  Features
 
